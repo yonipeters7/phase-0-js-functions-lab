@@ -1,7 +1,3 @@
-Sure! Here are two additional functions that add a bit more complexity while still being suitable for new students:
-
----
-
 **Lab: Functions in JavaScript**
 
 **Estimate Completed Time:** 30-60 minutes
